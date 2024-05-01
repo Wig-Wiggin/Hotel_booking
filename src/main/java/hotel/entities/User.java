@@ -1,13 +1,11 @@
 package hotel.entities;
 
-import javax.persistence.*;
+import jakarta.persistence.Entity;
+import jakarta.persistence.*;
+
+
 import java.io.Serializable;
 
-/**
- * @author Bogush Aleksandr
- * @version 1.0
- * @since 15-11-2020
- */
 
 @Entity
 @Table(name = "user")
