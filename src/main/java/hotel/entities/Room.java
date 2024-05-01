@@ -1,6 +1,8 @@
 package hotel.entities;
 
-import javax.persistence.*;
+
+import jakarta.persistence.*;
+
 import java.io.Serializable;
 
 
